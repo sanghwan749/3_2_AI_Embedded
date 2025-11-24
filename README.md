@@ -8,7 +8,6 @@ This repository is a storage space for all materials, assignments, experiments, 
 
 This repo contains various files and experiments related to:
 
-- 🤖 AI model deployment on embedded devices  
 - 🍓 Raspberry Pi–based applications  
 - ⚡ Edge TPU acceleration  
 - 📷 Computer vision testing  
