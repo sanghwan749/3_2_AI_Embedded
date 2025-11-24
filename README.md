@@ -1,16 +1,19 @@
-📚 AI-Embedded Lecture Repository
+# 📚 AI-Embedded Lecture Repository
 
-Welcome to my AI-Embedded lecture storage repository!
-This repository serves as a collection of materials, assignments, experiments, and code implementations created throughout the AI-Embedded Systems course.
+This repository is a storage space for all materials, assignments, experiments, and code created during my **AI-Embedded Systems** lecture.
 
-The goal of this repo is to organize and archive all projects related to:
+---
 
-🤖 AI model deployment on embedded devices
+## 📌 Overview
 
-🍓 Raspberry Pi–based applications
+This repo contains various files and experiments related to:
 
-⚡ Edge TPU acceleration
+- 🤖 AI model deployment on embedded devices  
+- 🍓 Raspberry Pi–based applications  
+- ⚡ Edge TPU acceleration  
+- 📷 Computer vision testing  
+- 💾 Lab practice and sample scripts  
 
-📷 Computer vision experiments
+It serves as a record of my learning process and a reference for future embedded AI projects.
 
-🧪 Lab work, practice code, and test scripts
+---
